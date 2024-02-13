@@ -82,3 +82,7 @@ if __name__ == '__main__':
 # git zalupa 
 
 # giiiiiiiiiihihhui
+    
+    # sdjnkghsadjkgads
+
+    # adsljngasd
